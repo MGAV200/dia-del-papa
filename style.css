@@ -77,6 +77,12 @@ footer p {
     justify-content: space-evenly;
 }
 
+@media(max-width: 600px){
+ .mt20{
+  height:150px;
+ }
+}
+
 @media(max-width: 1200px){
     .imgCenter{
         flex-wrap: wrap;
